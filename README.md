@@ -12,7 +12,7 @@ Become a Front-End developer: from 0 to 1.
 
   计划：
 
-  - 一天复习读完，根据微信读书的书签重点阅读（迁移书签到苹果读书），同时对比博客中对应内容，以及用项目实践。
+  - 两天复习读完，根据微信读书的书签重点阅读（迁移书签到苹果读书），对比记笔记到[博客 CSS 类](https://xuekeven.github.io/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/CSS/)下，并且用项目实践学习。
   - 重点阅读前三部分（前十章）的内容和附录，第四部分的高级话题（后六章）需要再读。
 
 - [CSS 揭秘](https://book.douban.com/subject/26745943/)
@@ -40,7 +40,7 @@ Become a Front-End developer: from 0 to 1.
 
 - [前端算法面试（高频题库&题目解析）](https://github.com/hovinghuang/fe-agorithm-interview)
 
-  每天两道题
+  每天三道题
 
 ### 网络协议
 

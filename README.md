@@ -45,14 +45,15 @@ Become a Front-End developer: from 0 to 1.
 
 ### 数据结构
 
-计划：
-看哪本书还是项目？一天复习读完？
+- [Hello 算法](https://book.douban.com/subject/36794227/)
+
+  计划：[在线阅读](https://www.hello-algo.com/chapter_preface/)
 
 ### 算法
 
 - [前端算法面试（高频题库&题目解析）](https://github.com/hovinghuang/fe-agorithm-interview)
 
-  计划：每天三道题
+  计划：每天上午刷三道题
 
 ### 网络协议
 
@@ -92,10 +93,10 @@ Become a Front-End developer: from 0 to 1.
 
 ## 面经
 
-- [最近 3 年优质前端面经大收集（不定时收录）](https://juejin.cn/post/7217019513946669111)
+- [掘金](https://juejin.cn)
+  - [最近 3 年优质前端面经大收集（不定时收录）](https://juejin.cn/post/7217019513946669111)
 - [小红书](https://www.xiaohongshu.com/explore)
 - [牛客](https://www.nowcoder.com/)
-- [掘金](https://juejin.cn)
 
 ## 准备
 

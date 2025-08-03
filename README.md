@@ -2,6 +2,11 @@
 
 Become a Front-End developer: from 0 to 1.
 
+参考进阶指南：
+
+- [写给女朋友的中级前端面试秘籍](https://juejin.cn/post/6844904115428917255)
+- [写给初中级前端的高级进阶指南](https://juejin.cn/post/6844904103504527374)
+
 ## 语言
 
 ### HTML
@@ -61,6 +66,12 @@ Become a Front-End developer: from 0 to 1.
 
 ### 浏览器
 
+#### Web 安全
+
+- [白帽子讲 Web 安全（第 2 版）](https://book.douban.com/subject/36502703/)
+
+  计划：在**苹果读书**阅读，有空阅读，不占用实际时间。
+
 ### Node
 
 ## 工程化
@@ -76,3 +87,16 @@ Become a Front-End developer: from 0 to 1.
 ## AI
 
 - [MCP 编程极速入门](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)
+
+# 面试
+
+## 面经
+
+- [最近 3 年优质前端面经大收集（不定时收录）](https://juejin.cn/post/7217019513946669111)
+- [小红书](https://www.xiaohongshu.com/explore)
+- [牛客](https://www.nowcoder.com/)
+- [掘金](https://juejin.cn)
+
+## 准备
+
+- [面试笔记](https://feroad.tech/interview/note.html)

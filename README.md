@@ -43,13 +43,11 @@ Become a Front-End developer: from 0 to 1.
 
 ## 计算机基础
 
-### 数据结构
+### 数据结构与算法
 
 - [Hello 算法](https://book.douban.com/subject/36794227/)
 
-  计划：[在线阅读](https://www.hello-algo.com/chapter_preface/)
-
-### 算法
+  计划：[在线阅读](https://www.hello-algo.com/chapter_preface/)，部分重要内容归纳到[博客 数据结构 类](https://xuekeven.github.io/categories/计算机基础/数据结构/)和[博客 算法 类](https://xuekeven.github.io/categories/计算机基础/算法/)下。
 
 - [前端算法面试（高频题库&题目解析）](https://github.com/hovinghuang/fe-agorithm-interview)
 
@@ -57,7 +55,7 @@ Become a Front-End developer: from 0 to 1.
 
 ### 网络协议
 
-## 框架
+## 框架和库
 
 ### React
 
@@ -67,13 +65,11 @@ Become a Front-End developer: from 0 to 1.
 
 ### 浏览器
 
-#### Web 安全
-
-- [白帽子讲 Web 安全（第 2 版）](https://book.douban.com/subject/36502703/)
-
-  计划：在**苹果读书**阅读，有空阅读，不占用实际时间。
-
 ### Node
+
+### 小程序
+
+### 跨平台
 
 ## 工程化
 
@@ -85,6 +81,16 @@ Become a Front-End developer: from 0 to 1.
 
 ### 测试
 
+## 性能优化
+
+## 日常工作
+
+## 安全
+
+- [白帽子讲 Web 安全（第 2 版）](https://book.douban.com/subject/36502703/)
+
+  计划：在**苹果读书**阅读，有空阅读，不占用实际时间。
+
 ## AI
 
 - [MCP 编程极速入门](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)
@@ -93,10 +99,16 @@ Become a Front-End developer: from 0 to 1.
 
 ## 面经
 
+资源：
+
 - [掘金](https://juejin.cn)
   - [最近 3 年优质前端面经大收集（不定时收录）](https://juejin.cn/post/7217019513946669111)
 - [小红书](https://www.xiaohongshu.com/explore)
 - [牛客](https://www.nowcoder.com/)
+
+总结：
+
+- 几乎不考察语言。
 
 ## 准备
 

@@ -7,9 +7,11 @@ Become a Front-End developer: from 0 to 1.
 - [写给女朋友的中级前端面试秘籍](https://juejin.cn/post/6844904115428917255)
 - [写给初中级前端的高级进阶指南](https://juejin.cn/post/6844904103504527374)
 
-## 语言
+## 编程语言
 
 ### HTML
+
+- [IFE-NOTE：页面结构语义化](https://rainylog.com/post/ife-note-1/)
 
 ### CSS
 
@@ -28,18 +30,18 @@ Become a Front-End developer: from 0 to 1.
 
 ### JavaScript
 
-- [JavaScript 权威指南 (原书第 7 版)](https://book.douban.com/subject/35396470/)
+- [JavaScript 权威指南 (原书第 7 版)](https://book.douban.com/subject/35396470/)、[JavaScript 正则表达式迷你书](https://zhuanlan.zhihu.com/p/29707385)
 
   计划：
 
-  - 三天读完，在**苹果读书**阅读，重点阅读的内容和，找到工作后再读。
+  - 五天读完，在**苹果读书**阅读，重点阅读的内容和，找到工作后再读。
   - 在苹果读书划线重点，部分重要内容归纳到[博客 JavaScript 类](https://xuekeven.github.io/categories/编程语言/JavaScript/)下。之后主要用苹果读书和博客学习复习。
 
 - [JavaScript 高级程序设计（第 4 版）](https://book.douban.com/subject/35175321/)、[JavaScript 语言精粹](https://book.douban.com/subject/11874748/)
 
   计划：
 
-  - 后期阅读
+  - 后期阅读。
 
 ## 计算机基础
 
@@ -51,9 +53,19 @@ Become a Front-End developer: from 0 to 1.
 
 - [前端算法面试（高频题库&题目解析）](https://github.com/hovinghuang/fe-agorithm-interview)
 
-  计划：每天上午刷三道题
+  计划：每天上午刷三道题。
 
 ### 网络协议
+
+- [图解网络](https://xiaolincoding.com/network/)
+
+  计划：[在线阅读](https://xiaolincoding.com/network/)，部分重要内容归纳到[博客 网络协议 类](https://xuekeven.github.io/categories/计算机基础/网络协议/)下。
+
+- [计算机网络（原书第 7 版）](https://book.douban.com/subject/30280001/)、[网络是怎样连接的](https://book.douban.com/subject/26941639/)
+
+  计划：
+
+  - 找到工作后再读。
 
 ## 框架和库
 
@@ -61,7 +73,7 @@ Become a Front-End developer: from 0 to 1.
 
 ### Vue
 
-## 环境
+## 运行环境
 
 ### 浏览器
 
@@ -113,3 +125,19 @@ Become a Front-End developer: from 0 to 1.
 ## 准备
 
 - [面试笔记](https://feroad.tech/interview/note.html)
+
+# 招聘
+
+优先通过社区找内推，其次通过官网和招聘平台求职。
+
+平台：
+
+- [掘金](https://juejin.cn/pin/club/6819970850532360206)
+- [谁在招人？](https://github.com/ruanyf/weekly/issues/7408)
+- [小红书](https://www.xiaohongshu.com/explore)
+- [牛客](https://www.nowcoder.com/)
+- [推特](https://x.com/)
+- [BOSS 直聘](https://www.zhipin.com/)
+- [脉脉](https://maimai.cn/)
+- [Job Leap](https://jobleap.cn/)
+- [V2EX](https://www.v2ex.com/?tab=jobs)

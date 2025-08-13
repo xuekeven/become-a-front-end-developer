@@ -55,6 +55,9 @@ Become a Front-End developer: from 0 to 1.
 
   计划：每天上午刷三道题。
 
+- [代码随想录](https://book.douban.com/subject/35680544/)
+  [在线阅读](https://programmercarl.com/)
+
 ### 网络协议
 
 - [图解网络](https://xiaolincoding.com/network/)
@@ -97,7 +100,7 @@ Become a Front-End developer: from 0 to 1.
 
 ## 日常工作
 
-## 安全
+## 网络安全
 
 - [白帽子讲 Web 安全（第 2 版）](https://book.douban.com/subject/36502703/)
 
@@ -115,6 +118,7 @@ Become a Front-End developer: from 0 to 1.
 
 - [掘金](https://juejin.cn)
   - [最近 3 年优质前端面经大收集（不定时收录）](https://juejin.cn/post/7217019513946669111)
+  - [五年前端面试半年总结，终于知道会哭的孩子有奶吃](https://juejin.cn/post/7537238517697527859)
 - [小红书](https://www.xiaohongshu.com/explore)
 - [牛客](https://www.nowcoder.com/)
 
@@ -125,6 +129,7 @@ Become a Front-End developer: from 0 to 1.
 ## 准备
 
 - [面试笔记](https://feroad.tech/interview/note.html)
+- [前端面试派](https://www.mianshipai.com/)
 
 # 招聘
 

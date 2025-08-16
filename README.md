@@ -47,9 +47,9 @@ Become a Front-End developer: from 0 to 1.
 
 ### 数据结构与算法
 
-- [Hello 算法](https://book.douban.com/subject/36794227/)
+- [学习 JavaScript 数据结构与算法](https://book.douban.com/subject/33441631/)、[Hello 算法](https://book.douban.com/subject/36794227/)
 
-  计划：[在线阅读](https://www.hello-algo.com/chapter_preface/)，部分重要内容归纳到[博客 数据结构 类](https://xuekeven.github.io/categories/计算机基础/数据结构/)和[博客 算法 类](https://xuekeven.github.io/categories/计算机基础/算法/)下。
+  计划：前者在**苹果读书**阅读，后者[在线阅读](https://www.hello-algo.com/chapter_preface/)，部分重要内容归纳到[博客 数据结构 类](https://xuekeven.github.io/categories/计算机基础/数据结构/)和[博客 算法 类](https://xuekeven.github.io/categories/计算机基础/算法/)下。
 
 - [前端算法面试（高频题库&题目解析）](https://github.com/hovinghuang/fe-agorithm-interview)
 
@@ -124,7 +124,7 @@ Become a Front-End developer: from 0 to 1.
 
 总结：
 
-- 几乎不考察语言。
+- 几乎不考察编程语言。
 
 ## 准备
 

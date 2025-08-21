@@ -34,7 +34,7 @@ Become a Front-End developer: from 0 to 1.
 
   计划：
 
-  - 五天读完，在**苹果读书**阅读，重点阅读的内容和，找到工作后再读。
+  - 三天读完重点部分，在**苹果读书**阅读，之后找到工作后再读。
   - 在苹果读书划线重点，部分重要内容归纳到[博客 JavaScript 类](https://xuekeven.github.io/categories/编程语言/JavaScript/)下。之后主要用苹果读书和博客学习复习。
 
 - [JavaScript 高级程序设计（第 4 版）](https://book.douban.com/subject/35175321/)、[JavaScript 语言精粹](https://book.douban.com/subject/11874748/)
@@ -60,9 +60,7 @@ Become a Front-End developer: from 0 to 1.
 
 ### 网络协议
 
-- [图解网络](https://xiaolincoding.com/network/)
-
-  计划：[在线阅读](https://xiaolincoding.com/network/)，部分重要内容归纳到[博客 网络协议 类](https://xuekeven.github.io/categories/计算机基础/网络协议/)下。
+- 学习[博客 网络协议 类](https://xuekeven.github.io/categories/计算机基础/网络协议/)即可。
 
 - [计算机网络（原书第 7 版）](https://book.douban.com/subject/30280001/)、[网络是怎样连接的](https://book.douban.com/subject/26941639/)
 

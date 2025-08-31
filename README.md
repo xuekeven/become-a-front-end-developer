@@ -43,6 +43,15 @@ Become a Front-End developer: from 0 to 1.
 
   - 后期阅读。
 
+### TypeScript
+
+- [TypeScript 入门教程](http://ts.xcatliu.com/index.html)
+
+  - [基础部分](http://ts.xcatliu.com/basics/index.html)
+  - [进阶部分](http://ts.xcatliu.com/advanced/index.html)
+
+- [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)
+
 ## 计算机基础
 
 ### 数据结构与算法
@@ -76,6 +85,12 @@ Become a Front-End developer: from 0 to 1.
 
 ## 运行环境
 
+### 网络安全
+
+- [白帽子讲 Web 安全（第 2 版）](https://book.douban.com/subject/36502703/)
+
+  计划：在**苹果读书**阅读，有空阅读，不占用实际时间。
+
 ### 浏览器
 
 ### Node
@@ -84,9 +99,11 @@ Become a Front-End developer: from 0 to 1.
 
 ### 跨平台
 
-## 工程化
+## 前端工程化
 
 ### 版本控制
+
+### 代码规范
 
 ### 构建工具
 
@@ -94,15 +111,7 @@ Become a Front-End developer: from 0 to 1.
 
 ### 测试
 
-## 性能优化
-
 ## 日常工作
-
-## 网络安全
-
-- [白帽子讲 Web 安全（第 2 版）](https://book.douban.com/subject/36502703/)
-
-  计划：在**苹果读书**阅读，有空阅读，不占用实际时间。
 
 ## AI
 
@@ -130,7 +139,7 @@ Become a Front-End developer: from 0 to 1.
 
 总结：
 
-- 几乎不考察编程语言。
+- 几乎不考察 HTML。
 
 ## 准备
 
@@ -152,3 +161,7 @@ Become a Front-End developer: from 0 to 1.
 - [脉脉](https://maimai.cn/)
 - [Job Leap](https://jobleap.cn/)
 - [V2EX](https://www.v2ex.com/?tab=jobs)
+
+公司：
+
+- [元火花](https://www.unispark.ai/#jobs)

@@ -161,7 +161,3 @@ Become a Front-End developer: from 0 to 1.
 - [脉脉](https://maimai.cn/)
 - [Job Leap](https://jobleap.cn/)
 - [V2EX](https://www.v2ex.com/?tab=jobs)
-
-公司：
-
-- [元火花](https://www.unispark.ai/#jobs)

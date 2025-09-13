@@ -154,9 +154,9 @@ Become a Front-End developer: from 0 to 1.
 
 - [掘金](https://juejin.cn/pin/club/6819970850532360206)
 - [工作机会](https://www.mianshipai.com/docs/services/job.html#工作机会)
-- [谁在招人？](https://github.com/ruanyf/weekly/issues/7674)
-- [牛客](https://www.nowcoder.com/)
-- [BOSS 直聘](https://www.zhipin.com/)
+- [谁在招人](https://github.com/ruanyf/weekly/issues/7674)
 - [V2EX](https://www.v2ex.com/?tab=jobs)
+- [牛客](https://www.nowcoder.com/)
+- [BOSS](https://www.zhipin.com/)
 - [小红书](https://www.xiaohongshu.com/explore)
 - [推特](https://x.com/)

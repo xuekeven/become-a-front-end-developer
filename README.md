@@ -71,6 +71,8 @@ Become a Front-End developer: from 0 to 1.
 
 ### React
 
+### Redux
+
 ### Vue
 
 ## 运行环境
@@ -85,9 +87,19 @@ Become a Front-End developer: from 0 to 1.
 
 ### Node
 
+### H5
+
 ### 小程序
 
-### 跨平台
+### 移动端
+
+## 性能优化
+
+### 参考指标
+
+### 性能监控
+
+### 优化手段
 
 ## 前端工程化
 
@@ -101,11 +113,29 @@ Become a Front-End developer: from 0 to 1.
 
 ### 测试
 
-## 日常工作
+## 图像可视化
+
+### SVG
+
+### WebGL
+
+### Canvas
+
+### Electron
+
+### Three.js
+
+### D3.js
 
 ## AI
 
+### MCP
+
 - [MCP 编程极速入门](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)
+
+## 总结复盘
+
+## 日常工作
 
 # 面试
 
